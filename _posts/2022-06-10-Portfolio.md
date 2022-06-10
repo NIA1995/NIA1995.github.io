@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title:  "포트폴리오"
 ---
 
