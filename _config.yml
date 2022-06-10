@@ -105,8 +105,8 @@ analytics:
 # Site Author
 author:
   name             : "NIA1995"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "/images/logo_avatar.png"
+  avatar           : "/images/logo_avatar.png"
+  bio              : "Welcome"
   location         : "KangWon-do"
   email            : "xlql555@naver.com"
   links:
