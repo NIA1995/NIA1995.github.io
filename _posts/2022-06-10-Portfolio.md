@@ -4,7 +4,7 @@ title:  "포트폴리오"
 ---
 
 ### 기술
-<img src="https://img.shields.io/badge/C#-239120?style=for-the-badge&logo=C Sharp&logoColor=white">
+<img src="https://img.shields.io/badge/C Sharp-239120?style=for-the-badge&logo=C Sharp&logoColor=white">
 
 ### 프로젝트 리스트
 
