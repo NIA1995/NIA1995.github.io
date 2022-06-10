@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: default
 title:  "포트폴리오"
 ---
 
