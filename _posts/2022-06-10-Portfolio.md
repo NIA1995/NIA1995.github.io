@@ -1,5 +1,3 @@
-<div align = "center">
-
 ---
 layout: post
 title:  "포트폴리오"
@@ -46,5 +44,3 @@ title:  "포트폴리오"
 #### 프로젝트 (메트로베니아 게임)
 
 <iframe width="886" height="664" src="https://www.youtube.com/embed/NpkTeRUl91g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
- 
-  </div>
